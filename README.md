@@ -17,4 +17,6 @@ The final pink convex region indicates the obstacle free space in 2D/3D World fo
 
 ### Credits 
 
-Q. Wang, Z. Wang, c. Xu, F. Gao, Fast iterative region inflation for computing large 2-d/3-d convex regions of obstacle-free space. arXiv:2403.02977 [cs.Ro] (2024).
+1. Q. Wang, Z. Wang, c. Xu, F. Gao, Fast iterative region inflation for computing large 2-d/3-d convex regions of obstacle-free space. arXiv:2403.02977 [cs.Ro] (2024).
+
+2. T. Cohn, “https://github.com/cohnt/iris-2d” IRIS-2D, 2022.
