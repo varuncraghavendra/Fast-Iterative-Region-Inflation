@@ -4,6 +4,6 @@ Scalable autonomous robots and self driving cars are finally a reality and this 
 
 ### Mathematical Formulation 
 
-![Alt text](FIRI_Math.png)
+![Alt text](images/FIRI_Math.png)
 
 
