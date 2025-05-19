@@ -1,6 +1,6 @@
 ### Implementation 
 
-Run the code blocks step byb step in the MATLAB File (MR_Final_Project.mlx)
+Run the code blocks step by step in the MATLAB File (MR_Final_Project.mlx)
 
 ### Abstract  
 
