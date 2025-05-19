@@ -6,4 +6,6 @@ Scalable autonomous robots and self driving cars are finally a reality and this 
 
 ![Alt text](images/FIRI_Math.png)
 
+### Sample Output
 
+![Alt text](images/final_firi.jpg)
